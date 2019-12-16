@@ -1,0 +1,1592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"width",
+				"widthScale"
+			],
+			[
+				"overl",
+				"currOverlapScale"
+			],
+			[
+				"curr",
+				"currOverlap"
+			],
+			[
+				"disply",
+				"displayCfg"
+			],
+			[
+				"nois",
+				"noiseTextureH"
+			],
+			[
+				"noi",
+				"noiseTextureW"
+			],
+			[
+				"aperture",
+				"apertureSides"
+			],
+			[
+				"apert",
+				"apertureSides"
+			],
+			[
+				"theS",
+				"theSun"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"orb",
+				"orbitCentreY"
+			],
+			[
+				"orbit",
+				"orbitCentreX"
+			],
+			[
+				"comp",
+				"globalCompositeOperation"
+			],
+			[
+				"sunC",
+				"sunConfig"
+			],
+			[
+				"sun",
+				"sunConfig"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"re",
+				"renderConfig"
+			],
+			[
+				"cyc",
+				"cycleTime"
+			],
+			[
+				"lens",
+				"lensFlareOpacityInterval"
+			],
+			[
+				"l",
+				"len"
+			],
+			[
+				"ren",
+				"renderParams"
+			],
+			[
+				"indi",
+				"indicatorParams"
+			],
+			[
+				"pivot",
+				"pivotPoint"
+			],
+			[
+				"update",
+				"updatePosition"
+			],
+			[
+				"pivo",
+				"pivotPoint"
+			],
+			[
+				"the",
+				"theSun"
+			],
+			[
+				"composite",
+				"compositeArea"
+			],
+			[
+				"total",
+				"totalFlareH"
+			],
+			[
+				"this",
+				"thisDisplayItem"
+			],
+			[
+				"col",
+				"colRand"
+			],
+			[
+				"rando",
+				"randomRandomiser"
+			],
+			[
+				"canvas",
+				"canvasCentreH"
+			],
+			[
+				"line",
+				"setLineDash"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"displa",
+				"displayOpts"
+			],
+			[
+				"render",
+				"renderCfg"
+			],
+			[
+				"gla",
+				"glareSpikesRandom"
+			],
+			[
+				"coro",
+				"coronaLayerCtx"
+			],
+			[
+				"flare",
+				"flareLayerCtx"
+			],
+			[
+				"ori",
+				"originX"
+			],
+			[
+				"dis",
+				"displayCfg"
+			],
+			[
+				"size",
+				"sizeArr"
+			],
+			[
+				"thistype",
+				"thisTypeRandomiser"
+			],
+			[
+				"flareAsse",
+				"flareAssetCanvas"
+			],
+			[
+				"major",
+				"majorRayLen"
+			],
+			[
+				"toothShadow",
+				"toothShadowColour"
+			],
+			[
+				"top_left_",
+				"top_left_cp2_Y"
+			],
+			[
+				"left",
+				"left_inner_anchor_Y"
+			],
+			[
+				"bott",
+				"bottom_Y"
+			],
+			[
+				"gradie",
+				"gradients"
+			],
+			[
+				"jaw",
+				"jawIndex"
+			],
+			[
+				"mouthGradients",
+				"mouthGradientsTop"
+			],
+			[
+				"mouthEdgeR",
+				"mouthEdgeRightExtend"
+			],
+			[
+				"top_i",
+				"top_left_inner_cp1_Y"
+			],
+			[
+				"mouthEdgeLeft",
+				"mouthEdgeLeftExtend"
+			],
+			[
+				"left_oter",
+				"left_outer_anchor_X"
+			],
+			[
+				"bottom_left_iner",
+				"bottom_left_inner_cp1_X"
+			],
+			[
+				"outer_an",
+				"top_outer_anchor_Y"
+			],
+			[
+				"top_inner",
+				"top_inner_anchor_X"
+			],
+			[
+				"mouth",
+				"mouthEdgeLeftIndex"
+			],
+			[
+				"top_left",
+				"top_left_cp1_X"
+			],
+			[
+				"top",
+				"topLipLeftPull"
+			],
+			[
+				"topLi",
+				"topLipOpenMod"
+			],
+			[
+				"minor",
+				"minorRayLen"
+			],
+			[
+				"debugC",
+				"debugCfg"
+			],
+			[
+				"canva",
+				"canvasCentreV"
+			],
+			[
+				"num",
+				"numRaysMultiple"
+			],
+			[
+				"shadow",
+				"shadowRenderOffset"
+			],
+			[
+				"source",
+				"source-over"
+			],
+			[
+				"static",
+				"staticAssetCanvas"
+			],
+			[
+				"look",
+				"lookTargetZ"
+			],
+			[
+				"Look",
+				"lookTargetY"
+			],
+			[
+				"thi",
+				"thisKey"
+			],
+			[
+				"fa",
+				"faceToStageCentreAngle"
+			],
+			[
+				"ima",
+				"imageAssetConfigs"
+			],
+			[
+				"orangeS",
+				"orangeShadowDark"
+			],
+			[
+				"spik",
+				"spikeSpread"
+			],
+			[
+				"lPo",
+				"lPointX"
+			],
+			[
+				"creat",
+				"createLinearGradient"
+			],
+			[
+				"el",
+				"elShift"
+			],
+			[
+				"pre",
+				"preMolarControl"
+			],
+			[
+				"teeth",
+				"teethWidth"
+			],
+			[
+				"lP",
+				"lPoint2X"
+			],
+			[
+				"white",
+				"whiteShadow"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"add",
+				"addColorStop"
+			],
+			[
+				"leftEye",
+				"leftEyeGrad"
+			],
+			[
+				"create",
+				"createRadialGradient"
+			],
+			[
+				"close",
+				"closePath"
+			],
+			[
+				"eye",
+				"eyes"
+			],
+			[
+				"ey",
+				"eyes"
+			],
+			[
+				"face",
+				"faceCoords"
+			],
+			[
+				"handle1",
+				"handle1X"
+			],
+			[
+				"isH",
+				"isHit"
+			],
+			[
+				"self",
+				"selfRenderCfg"
+			],
+			[
+				"bas",
+				"baseFaceCoords"
+			],
+			[
+				"cor",
+				"coordArr"
+			],
+			[
+				"set",
+				"setHudControlsConfig"
+			],
+			[
+				"can",
+				"canvasCentreH"
+			],
+			[
+				"glob",
+				"globalCompositeOperation"
+			],
+			[
+				"overlay",
+				"overlayCfg"
+			],
+			[
+				"lip",
+				"lipsPucker"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"nostril",
+				"nostrilRaiseL"
+			],
+			[
+				"poi",
+				"point2Y"
+			],
+			[
+				"getM",
+				"getMultiplier"
+			],
+			[
+				"fea",
+				"featureInputs"
+			],
+			[
+				"display",
+				"displayOverlay"
+			],
+			[
+				"mouthB",
+				"mouthBaseY"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"max",
+				"maxVal"
+			],
+			[
+				"min",
+				"minVal"
+			],
+			[
+				"yawn",
+				"yawnIntroSequence"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"nose",
+				"noseMod"
+			],
+			[
+				"loop",
+				"loopDelayTime"
+			],
+			[
+				"del",
+				"delayClock"
+			],
+			[
+				"thisS",
+				"thisSeq"
+			],
+			[
+				"seq",
+				"seqList"
+			],
+			[
+				"tem",
+				"tempValChange"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"le",
+				"leftCheekPull"
+			],
+			[
+				"mouthO",
+				"mouthOpenMod"
+			],
+			[
+				"muscle",
+				"muscleModifier"
+			],
+			[
+				"inner",
+				"innerCheeks"
+			],
+			[
+				"sin",
+				"sineWave"
+			],
+			[
+				"rayS",
+				"raySize"
+			],
+			[
+				"ray",
+				"raySpread"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/js/backgrounds.js",
+			"settings":
+			{
+				"buffer_size": 2858,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/app.js",
+			"settings":
+			{
+				"buffer_size": 35387,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/mathUtils.js",
+			"settings":
+			{
+				"buffer_size": 2115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/easing.js",
+			"settings":
+			{
+				"buffer_size": 10137,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/_base.scss",
+			"settings":
+			{
+				"buffer_size": 1493,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/sineWaveModulator.js",
+			"settings":
+			{
+				"buffer_size": 483,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/pages/index.html",
+			"settings":
+			{
+				"buffer_size": 17257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/trigonomicUtils.js",
+			"settings":
+			{
+				"buffer_size": 3815,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// coronaLayerCtx.globalCompositeOperation = 'source-over';\n        // sunSpikes.displayCorona();\n        \n\n        // var renderFlares = sunSpikes.displayCfg.flares;\n\n        // coronaLayerCtx.drawImage(\n        //     sunSpikes.flareOptions.canvas,\n        //     renderFlares.x, renderFlares.y, renderFlares.w, renderFlares.h,\n        //     theSun.x - (renderFlares.w / 2 ), theSun.y - (renderFlares.h / 2 ), renderFlares.w, renderFlares.h\n        // );    \n\n        // coronaLayerCtx.globalCompositeOperation = 'lighter';\n\n        // var renderGlare = sunSpikes.displayCfg.glareSpikesRandom.render;\n\n        // coronaLayerCtx.drawImage(\n        //     sunSpikes.renderCfg.canvas,\n        //     renderGlare.x, renderGlare.y, renderGlare.w, renderGlare.h,\n        //     theSun.x - (renderGlare.w / 2 ), theSun.y - (renderGlare.h / 2 ), renderGlare.w, renderGlare.h\n        // );\n\n        \n\n        // spikes\n        // sunSpikes.render( theSun.x, theSun.y, staticAssetConfigs.sunSpike, ctx );\n\n        ////////////////////////////////////////////\n        // coronaLayerCtx.globalCompositeOperation = 'source-over';\n\n        // var renderFlares = sunSpikes.displayCfg.flares;\n\n        // coronaLayerCtx.drawImage(\n        //     renderFlares.canvas,\n        //     renderFlares.x, renderFlares.y, renderFlares.w, renderFlares.h,\n        //     theSun.x - (renderFlares.w / 2 ), theSun.y - (renderFlares.h / 2 ), renderFlares.w, renderFlares.h\n        // );\n\n        // coronaLayerCtx.globalCompositeOperation = 'lighter';\n\n        // var renderGlare = sunSpikes.displayCfg.glareSpikes;\n\n        // coronaLayerCtx.drawImage(\n        //     sunSpikes.renderCfg.canvas,\n        //     renderGlare.x, renderGlare.y, renderGlare.w, renderGlare.h,\n        //     theSun.x - (renderGlare.w / 2 ), theSun.y - (renderGlare.h / 2 ), renderGlare.w, renderGlare.h\n        // );\n\n\n        ////////////////////////////////////////////\n        \n        \n\n        //     sunSpikes.renderRainbowSpikes(\n        //     {   \n        //         x: theSun.x,\n        //         y: theSun.y,\n        //         imageCfg: imageAssetConfigs.rainbowGlareLong,\n        //         d: 300\n        //     },\n        //     ctx\n        // );\n        \n\n        // corona shine\n        // ctx.fillStyle = coronaGradien2;\n        // ctx.fillCircle( theSun.x, theSun.y, theSun.r * 3 );\n\n\n        // drawFeatures();\n\n        // if ( rainbowRealImageLoaded === true ) {\n\n        //     ctx.globalCompositeOperation = 'screen';\n\n        //     ctx.translate( theSun.x, theSun.y );\n        //     ctx.rotate( theSun.sunToStageCentreAngle );\n\n        //     ctx.globalAlpha = 0.5;\n        //     ctx.drawImage(\n        //         rainbowRealImage,\n        //          400 + -( rainbowRealImageCfg.w / 2 ),\n        //         -( rainbowRealImageCfg.w / 2 ),\n        //         rainbowRealImageCfg.w,\n        //         rainbowRealImageCfg.h\n        //     );\n        //     ctx.globalAlpha = 1;\n        //     ctx.rotate( -theSun.sunToStageCentreAngle );\n        //     ctx.translate( -theSun.x, -theSun.y );\n        // }\n\n\n        //////////////////////////////////",
+			"settings":
+			{
+				"buffer_size": 3130,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/sunSpikes.js",
+			"settings":
+			{
+				"buffer_size": 26272,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/backgroundCycler.js",
+			"settings":
+			{
+				"buffer_size": 5805,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/lensFlare.js",
+			"settings":
+			{
+				"buffer_size": 19168,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/theStars.js",
+			"settings":
+			{
+				"buffer_size": 4608,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/noiseTextureGenerator.js",
+			"settings":
+			{
+				"buffer_size": 4066,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/noiseConfig.js",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "let noiseConfig = {"
+			}
+		},
+		{
+			"contents": "// ease curve\nvar fade = function(t)\n{\n\treturn t * t * t * (t * (t * 6 - 15) + 10);\n};\n\n// linear interpolation\nvar mix = function(a, b, t)\n{\n\treturn (1 - t) * a + t * b;\n};\nvar grad3 = [[1, 1, 0], [-1, 1, 0], [1, -1, 0], [-1, -1, 0], [1, 0, 1], [-1, 0, 1], [1, 0, -1], [-1, 0, -1], [0, 1, 1], [0, -1, 1], [0, 1, -1], [0, -1, -1]];\n\n// a special dot product function used in perlin noise calculations\nvar perlinDot = function(g, x, y, z)\n{\n\treturn g[0] * x + g[1] * y + g[2] * z;\n};\t\n\nvar NoiseGenerator = function(numOctaves, attenuation, roughness, startingOctave)\n{\n\tvar p = [];\n\tfor (var i = 0; i < 256; i++)\n\t{\n\t\tp[i] = Math.floor(Math.random() * 256);\n\t}\n\n\t// To remove the need for index wrapping, double the permutation table length\n\tvar perm = [];\n\tfor (i = 0; i < 512; i++)\n\t{\n\t\tperm[i] = p[i & 255];\n\t}\n\n\n    var n = function(x, y, z)\n\t{\n\t\t// Find unit grid cell containing point\n\t\tvar X = Math.floor(x);\n\t\tvar Y = Math.floor(y);\n\t\tvar Z = Math.floor(z);\n\t\t\n\t\t// Get relative xyz coordinates of point within that cell\n\t\tx = x - X;\n\t\ty = y - Y;\n\t\tz = z - Z;\n\t\t\n\t\t// Wrap the integer cells at 255\n\t\tX &= 255;\n\t\tY &= 255;\n\t\tZ &= 255;\n\t\t\n\t\t// Calculate a set of eight hashed gradient indices\n\t\tvar gi000 = perm[X + perm[Y + perm[Z]]] % 12;\n\t\tvar gi001 = perm[X + perm[Y + perm[Z + 1]]] % 12;\n\t\tvar gi010 = perm[X + perm[Y + 1 + perm[Z]]] % 12;\n\t\tvar gi011 = perm[X + perm[Y + 1 + perm[Z + 1]]] % 12;\n\t\tvar gi100 = perm[X + 1 + perm[Y + perm[Z]]] % 12;\n\t\tvar gi101 = perm[X + 1 + perm[Y + perm[Z + 1]]] % 12;\n\t\tvar gi110 = perm[X + 1 + perm[Y + 1 + perm[Z]]] % 12;\n\t\tvar gi111 = perm[X + 1 + perm[Y + 1 + perm[Z + 1]]] % 12;\n\t\t\n\t\t// Calculate noise contributions from each of the eight corners\n\t\tvar n000 = perlinDot(grad3[gi000], x, y, z);\n\t\tvar n100 = perlinDot(grad3[gi100], x - 1, y, z);\n\t\tvar n010 = perlinDot(grad3[gi010], x, y - 1, z);\n\t\tvar n110 = perlinDot(grad3[gi110], x - 1, y - 1, z);\n\t\tvar n001 = perlinDot(grad3[gi001], x, y, z - 1);\n\t\tvar n101 = perlinDot(grad3[gi101], x - 1, y, z - 1);\n\t\tvar n011 = perlinDot(grad3[gi011], x, y - 1, z - 1);\n\t\tvar n111 = perlinDot(grad3[gi111], x - 1, y - 1, z - 1);\n\t\t\n\t\t// Compute the ease curve value for each of x, y, z\n\t\tvar u = fade(x);\n\t\tvar v = fade(y);\n\t\tvar w = fade(z);\n\t\t\n\t\t// Interpolate (along x) the contributions from each of the corners\n\t\tvar nx00 = mix(n000, n100, u);\n\t\tvar nx01 = mix(n001, n101, u);\n\t\tvar nx10 = mix(n010, n110, u);\n\t\tvar nx11 = mix(n011, n111, u);\n\t\t\n\t\t// Interpolate the four results along y\n\t\tvar nxy0 = mix(nx00, nx10, v);\n\t\tvar nxy1 = mix(nx01, nx11, v);\n\t\t\n\t\t// Interpolate the last two results along z\n\t\treturn mix(nxy0, nxy1, w);\n\t};\n\n\tthis.noise = function (x, y, z)\n\t{\n\t\tvar a = Math.pow(attenuation, -startingOctave);\n\t\tvar f = Math.pow(roughness, startingOctave);\n\t\tvar m = 0;\n\t\tfor (var i = startingOctave; i < numOctaves + startingOctave; i++)\n\t\t{\n\t\t\tm += n(x * f, y * f, z * f) * a;\n\t\t\ta /= attenuation;\n\t\t\tf *= roughness;\n\t\t}\n\t\treturn m / numOctaves;\n\t};\t\t\n};\n\nvar generateTexture = function (size, data)\n{\n\tvar canvas = document.createElement('canvas');\n\tcanvas.width = canvas.height = size;\n\tvar context = canvas.getContext('2d');\n\tvar imageDataObject = context.createImageData(size, size);\n\tvar imageData = imageDataObject.data;\n\tfor (var i = 0; i < size * size * 4; i += 4)\n\t{\n\t\timageData[i] = data.baseColor[0];\n\t\timageData[i + 1] = data.baseColor[1];\n\t\timageData[i + 2] = data.baseColor[2];\n\t\timageData[i + 3] = data.baseColor[3];\n\t}\n\tfor (i = 0; i < data.noise.length; i++)\n\t{\n\t\tvar k = data.noise[i];\n\t\tvar n = new NoiseGenerator(k.numOctaves, k.attenuation, k.roughness, k.startingOctave);\n\t\tvar p = 0;\n\t\tfor (var y = 0; y < size; y++)\n\t\t{\n\t\t\tfor (var x = 0; x < size; x++)\n\t\t\t{\n\t\t\t\t// generate noise at current x and y coordinates (z is set to 0)\n\t\t\t\tvar v = Math.abs(n.noise(x / size, y / size, 0));\n\t\t\t\tfor (var c = 0; c < 3; c++, p++)\n\t\t\t\t{\n\t\t\t\t\timageData[p] = Math.floor(imageData[p] + v * k.color[c] *  k.color[3] / 255);\n\t\t\t\t}\n\t\t\t\tp++;\n\t\t\t}\n\t\t}\n\t}\n\tcontext.putImageData(imageDataObject, 0, 0);\n\treturn canvas;\n};\n\n\t\n",
+			"file": "/C/Users/Simon/Downloads/perlin/perlin/perlin.js",
+			"file_size": 4182,
+			"file_write_time": 131098660320000000,
+			"settings":
+			{
+				"buffer_size": 4042,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Simon/Documents/theSunrise",
+		"/C/Users/Simon/Documents/theSunrise/src",
+		"/C/Users/Simon/Documents/theSunrise/src/js",
+		"/C/Users/Simon/Documents/theSunrise/src/scss",
+		"/C/Users/Simon/Documents/theSunrise/src/templates",
+		"/C/Users/Simon/Documents/theSunrise/src/templates/base",
+		"/C/Users/Simon/Documents/theSunrise/src/templates/pages"
+	],
+	"file_history":
+	[
+		"/C/Users/Simon/Documents/theSunrise/src/js/app.js",
+		"/C/Users/Simon/Downloads/perlin/perlin/app.js",
+		"/C/Users/Simon/Documents/theSunrise/src/js/backgrounds.js",
+		"/C/Users/Simon/Documents/theSunrise/src/js/easing.js",
+		"/C/Users/Simon/Documents/theSunrise/src/js/mathUtils.js",
+		"/C/Users/Simon/Documents/theSunrise/src/scss/_backgrounds.scss",
+		"/C/Users/Simon/Documents/theSunrise/src/js/backgroundCycler.js",
+		"/C/Users/Simon/Documents/theSunrise/src/templates/base/base.html",
+		"/C/Users/Simon/Documents/sunface/src/js/trackPlayer.js",
+		"/C/Users/Simon/Documents/sunface/src/templates/pages/index.html",
+		"/C/Users/Simon/Documents/sunface/src/js/easing.js",
+		"/C/Users/Simon/Documents/sunface/src/js/lensFlare.js",
+		"/C/Users/Simon/Documents/sunface/package.json",
+		"/C/Users/Simon/Documents/sunface/src/js/app.js",
+		"/C/Users/Simon/Documents/sunface/src/js/muscleModifier.js",
+		"/C/Users/Simon/Documents/sunface/src/scss/_range-input.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/sunSpikes.js",
+		"/C/Users/Simon/Documents/sunface/src/scss/_base.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/controlPanel.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sunCorona.js",
+		"/C/Users/Simon/Documents/sunface/src/scss/_control-panel.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/overlay.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/bigSmileSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/ecstaticSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/expressions.js",
+		"/C/Users/Simon/Documents/sunface/src/js/colorUtils.js",
+		"/C/Users/Simon/Documents/canvas-asteroidsV2-new/currentVersion/jsShared/creative.js",
+		"/C/Users/Simon/Documents/sunface/src/scss/_utils.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/trigonomicUtils.js",
+		"/C/Users/Simon/Documents/sunface/src/js/canvasApiAugmentation.js",
+		"/C/Users/Simon/Documents/sunface/src/js/exportOverlay.js",
+		"/C/Users/Simon/Documents/sunface/src/js/debugUtils.js",
+		"/C/Users/Simon/Documents/sunface/gulpfile.js",
+		"/C/Users/Simon/Documents/sunface/src/templates/macros/controlPanelSectionItemRange.html",
+		"/C/Users/Simon/Documents/sunface/src/scss/_backgrounds.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/mathUtils.js",
+		"/C/Users/Simon/Documents/sunface/gulp/dirs.js",
+		"/C/Users/Simon/Documents/sunface/src/js/proportionalMeasures.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sineWaveModulator.js",
+		"/C/Users/Simon/Documents/sunface/src/scss/main.scss",
+		"/C/Users/Simon/Documents/sunface/src/scss/_export-overlay.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/entry.js",
+		"/C/Users/Simon/Documents/sunface/appNotes.md",
+		"/C/Users/Simon/Documents/sunface/src/scss/_variables.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/tom.js",
+		"/C/Users/Simon/Documents/sunface/src/js/tracks/ecstatic.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/sequenceList.js",
+		"/C/Users/Simon/Documents/sunface/src/js/tracks/yawn.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/smilingSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/smileSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/yawnSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/js/tracks/bigSad.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/bigSadSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/templates/macros/controlPanelSectionHeader.html",
+		"/C/Users/Simon/Documents/sunface/src/js/sequenceUtils.js",
+		"/C/Users/Simon/Documents/sunface/src/js/tracks/smile.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/resetSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/js/tracks/blink.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequences/blinkSequence.js",
+		"/C/Users/Simon/Documents/sunface/src/js/sequencer.js",
+		"/C/Users/Simon/Downloads/palette.scss",
+		"/C/Users/Simon/Documents/sunface/src/js/tracks/bigSmile.js",
+		"/C/Users/Simon/Documents/sunface/src/js/tracks/reset.js",
+		"/C/Users/Simon/Documents/sunface/src/templates/base/base.html",
+		"/C/Users/Simon/Documents/sunface/dist/index.html",
+		"/C/Users/Simon/Documents/sunface/src/js/ongoing.js",
+		"/C/Users/Simon/Documents/sunface/src/js/gears.js",
+		"/C/Users/Simon/Documents/sunface/src/js/baseFaceCoordinates.js",
+		"/C/Users/Simon/Documents/particleEngine/src/js/particleFunctions/createPerParticleAttributes.js",
+		"/C/Users/Simon/Documents/particleEngine/gulpfile.js",
+		"/C/Users/Simon/Documents/particleEngine/src/scss/main.scss",
+		"/C/Users/Simon/Documents/particleEngine/src/scss/_base.scss",
+		"/C/Users/Simon/Documents/particleEngine/src/templates/pages/index.html",
+		"/C/Users/Simon/Documents/particleEngine/src/js/particleThemes/themes.js",
+		"/C/Users/Simon/Documents/particleEngine/src/templates/base/base.html",
+		"/C/Users/Simon/Documents/particleEngine/package.json",
+		"/C/Users/Simon/Documents/particleEngine/src/js/particleFunctions/updateParticle.js",
+		"/C/Users/Simon/Documents/particleEngine/src/js/easing.js",
+		"/C/Users/Simon/Documents/particleEngine/src/js/particleThemes/themes/flame/flameTheme.js",
+		"/C/Users/Simon/Documents/particleEngine/src/js/particleThemes/themes/smoke/smokeTheme.js",
+		"/C/Users/Simon/Documents/particleEngine/src/js/particleThemes/themes/reset/resetTheme.js",
+		"/C/Users/Simon/Documents/particleEngine/src/js/particleThemes/themes/warpStar/warpStarTheme.js",
+		"/C/Users/Simon/Documents/particleEngine/src/js/themes.js",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/index.html",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/css/scss/base/_variables.scss",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/css/scss/base/_type.scss",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/test-notes.md",
+		"/C/Users/Simon/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/Seti.sublime-theme",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/css/scss/components/_datepicker.scss",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/css/scss/main.scss",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/js/main.js",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/gruntfile.js",
+		"/C/Users/Simon/Documents/boughtByMany/fe-candidate-task-8ojangles/package.json",
+		"/C/Users/Simon/Documents/Fid/djangocmsprojects/testsite-2024/templates/aldryn_newsblog/includes/article.html",
+		"/C/Users/Simon/Documents/Fid/djangocmsprojects/testsite-2024/settings.py",
+		"/C/Users/Simon/Documents/Fid/djangocmsprojects/testsite-2024/templates/djangocms_comments/comment_box.html",
+		"/C/Users/Simon/Documents/Fid/djangocmsprojects/testsite-2024/templates/aldryn_newsblog/base.html",
+		"/C/Users/Simon/Documents/Fid/djangocmsprojects/testsite-2024/templates/aldryn_newsblog/article_list.html",
+		"/C/Users/Simon/Desktop/pi-flatsite-old/scss/project/partials/_test.scss",
+		"/D/data transfer/Projects/PhotoSlider_techTest_08032012/homePage_galleryTest_08032012.html",
+		"/C/Users/Simon/Desktop/bee_game-master/bee_game/js/source/debug-output.js",
+		"/C/Users/Simon/Desktop/bee_game-master/bee_game/js/source/game-variables.js",
+		"/C/Users/Simon/Desktop/bee_game-master/bee_game/js/jsBasic.js",
+		"/C/Users/Simon/Desktop/bee_game-master/bee_game/js/canvas-init.js",
+		"/C/Users/Simon/Desktop/site_template/source/scss/foundation/_settings.scss",
+		"/C/Users/Simon/Desktop/site_template/source/scss/sandbox.scss",
+		"/C/Users/Simon/Desktop/site_template/source/scss/_variables.scss",
+		"/C/Users/Simon/Desktop/site_template/Gruntfile.js",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/common/script_list.html",
+		"/C/Users/Simon/Desktop/site_template/dist/js/dev-only.js",
+		"/C/Users/Simon/Desktop/site_template/source/scss/_fonts.scss",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/pages/index.html",
+		"/C/Users/Simon/Desktop/site_template/source/scss/main.scss",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/product-feature-item-3.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/product-feature-item-1.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/product-feature-item-2.html",
+		"/C/Users/Simon/Desktop/site_template/dist/js/main.js",
+		"/C/Users/Simon/Desktop/site_template/dist/js/vendor/slick/slick.js",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/pages/product-page-prototype.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/tools-section-offscreen.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/news-section.html",
+		"/C/Users/Simon/Desktop/site_template/source/scss/_carousel-slider.scss",
+		"/C/Users/Simon/Desktop/site_template/source/scss/_tools-section-offscreen.scss",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/invest-tool-example-4.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/invest-tool-example-3.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/invest-tool-example-1.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/partials/invest-tool-example-2.html",
+		"/C/Users/Simon/Desktop/site_template/source/html_templates/common/site_footer.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"                \n",
+			"computedX",
+			"255, 0,",
+			"greenGrad",
+			"255, 0, 0,",
+			"redGrad",
+			"this.size",
+			"currIntersectDist",
+			"w",
+			"sunLensIntersectingFlag",
+			"currIntersectDist",
+			"x",
+			"this.currIntersectDist",
+			"calculateSunLensIntersectDist",
+			"this.r",
+			"theSun",
+			"this",
+			"renderConfig.h",
+			" rainbowDot.size",
+			"rainbowDot.size",
+			"renderCfg",
+			"secondaryStaticAssetCtx",
+			"rainbowDot",
+			"secondaryStaticAssetCtx",
+			"red",
+			"secondaryStaticAssetCtx",
+			"redGrad",
+			"rainbowDotSize",
+			"secondaryStaticAssetCtx",
+			";",
+			" = ",
+			"let ",
+			"(rainbowDotSize - offset)",
+			"(rainbowDotSize / 2) - offset ",
+			"offset",
+			"(rainbowDotSize / 2) - offset ",
+			"(rainbowDotSize - offset)",
+			"(rainbowDotSize / 2) - offset ",
+			"red",
+			"400",
+			"rainbowDotSize / 2",
+			" / 2",
+			"0.4",
+			"0.8 )",
+			"0.8",
+			"0.5",
+			"0.6",
+			"flareCfg.size",
+			"c.",
+			"phaseTime",
+			"phaseInterval",
+			"scaledSize *",
+			"/ scaleM",
+			"scaleMultiplier",
+			"distToStageCentre",
+			"sunPivot",
+			"displayCfg.d",
+			"displayCfg",
+			"w",
+			"thisFlare",
+			"255",
+			"125",
+			"235",
+			"noiseTextureW",
+			"flareSize",
+			"noiseCfg",
+			"]",
+			"[",
+			",\n\t[",
+			"mix",
+			"fade",
+			");",
+			"grad3",
+			"]",
+			"perm[",
+			"[",
+			"], ",
+			"]",
+			"[",
+			"start",
+			"indicator",
+			"indParam",
+			"dist",
+			"this.orbitCentreR * 1.3",
+			"sunPosX",
+			"0.4",
+			"0.5",
+			"20",
+			"0, 1 )",
+			" 0, 1",
+			"255",
+			"green",
+			"255, 0,",
+			"grad",
+			"Grad",
+			"grad",
+			"${ rgbColorString }",
+			"200",
+			"( scale / 2 )",
+			"threeQuarterLine",
+			"this.config.alphaClock",
+			"this.config.globalAlpha",
+			"this.config.alphaClock",
+			"this.config.alphaInterval",
+			"this.config.totalClock",
+			"this.config.alphaClock",
+			"this.config.pivot",
+			"pivot",
+			"config.resetA",
+			"sunConfig.orbitTime",
+			"this.starsArr",
+			"star",
+			"i",
+			"sunCfg",
+			"this.renderConfig",
+			"val",
+			"ctx",
+			"currPhase",
+			"glareSpikesRandom",
+			"renderGlareSpikesRandom",
+			"currUnderBg",
+			"Under",
+			"currUnderBg",
+			"indPa",
+			"lensFlare",
+			" }",
+			"},\n\t[",
+			"},"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sunToStageCentreAngle",
+			"theSun"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/js/backgrounds.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2323,
+								2323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22305,
+								22305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13832.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/js/mathUtils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/easing.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5723,
+								5733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2223.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/scss/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1238,
+								1238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/js/sineWaveModulator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/pages/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16865,
+								16865
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8741.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/js/trigonomicUtils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3711,
+								3711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3130,
+								3130
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\Simon\\Documents\\theSunrise\\src\\js",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 790.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "src/js/sunSpikes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25283,
+								25283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/js/backgroundCycler.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3268,
+								3268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7999.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/js/lensFlare.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8247,
+								8247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/js/theStars.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4253,
+								4253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/js/noiseTextureGenerator.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4047,
+								4047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/js/noiseConfig.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"auto_name": "let noiseConfig = {",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/Simon/Downloads/perlin/perlin/perlin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4038,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.857355090258,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "theSunrise.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 59.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

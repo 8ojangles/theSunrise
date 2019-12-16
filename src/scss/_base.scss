@@ -1,0 +1,97 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+	font-family: tahoma;
+	padding: 0;
+	margin: 0;
+	width: 100vh;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.canvas-container {
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	// background-color: black;
+	z-index: $z-50;
+
+	canvas {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+}
+
+#corona-layer {
+	z-index: $z-10;
+}
+
+#face-layer {
+	z-index: $z-20;
+}
+
+#flare-layer {
+	z-index: $z-30;
+}
+
+
+.asset-canvas-display-layer {
+	width: auto;
+	height: auto;
+	pointer-events: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: $z-70;
+	background-color: black;
+	opacity: 0;
+	overflow: auto;
+	&.attachedCanvas {
+		pointer-events: initial;
+		width: 100%;
+		height: 100%;
+		opacity: 1;
+
+		.close-overlay {
+			display: block;
+		}
+	}
+
+	.close-overlay {
+		position: fixed;
+		z-index: $z-80;
+		border: none;
+		background: $blue-medium;
+		width: 60px;
+		height: 60px;
+		top: 5%;
+		right: 5%;
+		display: none;
+		color: white;
+		font-size: 3rem;
+		border-radius: 50%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		&:hover {
+			background: lighten( $blue-medium, 10% );
+			cursor: pointer;
+		}
+	}
+}
